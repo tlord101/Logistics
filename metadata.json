@@ -1,0 +1,5 @@
+{
+  "name": "CBSA Consignee Verification",
+  "description": "Official Customs Declaration and Clearance Portal for high-value shipments entering Canada.",
+  "requestFramePermissions": []
+}
